@@ -23,6 +23,14 @@ python tests/independent_d24.py
 
 The original D23 source, both original verifiers and the original D23 labelled certificate remain copied from the immutable tag under `prior/d23/`; predecessors are not modified.
 
+## Official publication and checkpoint
+
+- **Zenodo DOI:** [10.5281/zenodo.24410102](https://doi.org/10.5281/zenodo.24410102).
+- **Public record:** https://zenodo.org/records/24410102 ; 3/3 attachments verified by the public Zenodo API.
+- **Frozen source tag CI:** [GitHub Actions run 44855828900](https://github.com/Topbrutus/polybrutus-d24/actions/runs/44855828900), success.
+- **Central Memoria index:** [POLYBRUTUS_X72_PUBLICATIONS_INDEX.md](https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md).
+- **Durable checkpoint:** [POLYBRUTUS_D24_PUBLICATION_2026-11-20.md](https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D24_PUBLICATION_2026-11-20.md).
+
 ## Source and scientific documents
 
 - [Specification](SPECIFICATION_D24.md), [proof](PREUVE_D24.md), [provenance](PROVENANCE.md)

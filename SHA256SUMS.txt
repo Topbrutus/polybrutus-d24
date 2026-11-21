@@ -1,0 +1,5 @@
+# SHA-256 sums of the three files published on Zenodo record 24410102
+# Source ZIP is a released external archive; other files also exist at GitHub tag v0.1.0
+794fd2c147cd66d80af43eb06a6f73dc52b3154eff719ae7dfc80697f682d472  POLYBRUTUS_D24_SOURCE_v0.1.0_GITHUB_TAG.zip
+5a15a4f477fd711783af873ad36d51ad9e3b307a7353a07cc57454c30fdb9526  publication/POLYBRUTUS_24D_NOTE.pdf
+c2b1bbfd2c761871e81748fc5621c700443c7a7e7c9daba479d9ff18112c22eb  results/certificate_d24.json

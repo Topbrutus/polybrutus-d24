@@ -1,0 +1,60 @@
+{
+  "ai_disclosure": "OpenAI ChatGPT (Astra) substantially assisted; AI is not a scientific author",
+  "files": {
+    "POLYBRUTUS_24D_NOTE.pdf": {
+      "md5": "8ce037e6c36afaf0c051899391f61eb8",
+      "sha256": "5a15a4f477fd711783af873ad36d51ad9e3b307a7353a07cc57454c30fdb9526",
+      "size": 79222
+    },
+    "POLYBRUTUS_D24_SOURCE_v0.1.0_GITHUB_TAG.zip": {
+      "md5": "74709b7a3ce38d6b00e42e0f8b36d0ef",
+      "sha256": "794fd2c147cd66d80af43eb06a6f73dc52b3154eff719ae7dfc80697f682d472",
+      "size": 266774
+    },
+    "certificate_d24.json": {
+      "md5": "eeb7bee69b0d308cfe7e02d25ffdf918",
+      "sha256": "c2b1bbfd2c761871e81748fc5621c700443c7a7e7c9daba479d9ff18112c22eb",
+      "size": 31867
+    }
+  },
+  "github": {
+    "frozen_scientific_commit": "16d9f0ee705d15c220bc02e18563a5e5c5c1e5fc",
+    "frozen_tag": "v0.1.0",
+    "main_ci_before_publication": "https://github.com/Topbrutus/polybrutus-d24/actions/runs/44855744533",
+    "repository": "https://github.com/Topbrutus/polybrutus-d24",
+    "tag_ci": "https://github.com/Topbrutus/polybrutus-d24/actions/runs/44855828900"
+  },
+  "mathematics": {
+    "affine_rank": 24,
+    "gram_rank": 24,
+    "graph_eigenvalue_14_multiplicity": 4,
+    "graph_eigenvalue_29_over_2_multiplicity": 18,
+    "new_pairs": 28,
+    "pairs": 406,
+    "parent_pairs_preserved": 378,
+    "sum_squared_distances_R1": "3295/4",
+    "vertices": 29
+  },
+  "memoria": {
+    "checkpoint": "memoria/checkpoints/POLYBRUTUS_D24_PUBLICATION_2026-11-20.md",
+    "registry": "memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md",
+    "repository": "Topbrutus/topbrutus_one"
+  },
+  "parent": {
+    "doi": "10.5281/zenodo.24410035",
+    "repository": "Topbrutus/polybrutus-d23",
+    "source_commit": "23f71c9b9932894c502fb67c1326271daa0692e7",
+    "tag": "v0.1.0"
+  },
+  "schema": "POLYBRUTUS-D24-RELEASE-MANIFEST-v1",
+  "scientific_author": "Gabriel St-Pierre",
+  "scientific_limits": "No empirically measured physical extra dimension/resonance; no universal theorem or human peer review claimed",
+  "status": "DONE",
+  "version": "0.1.0",
+  "zenodo": {
+    "doi": "10.5281/zenodo.24410102",
+    "files_verification": "3/3 public API byte lengths and MD5 matched",
+    "record_id": 24410102,
+    "url": "https://zenodo.org/records/24410102"
+  }
+}

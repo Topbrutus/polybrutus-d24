@@ -10,3 +10,5 @@ date-released: 2026-11-20
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d24
 abstract: "Exact reproducible Euclidean labelled metric on 29 points, with 378 parent labelled distances preserved and a chosen dimensionless graph model."
+doi: 10.5281/zenodo.24410102
+url: https://doi.org/10.5281/zenodo.24410102
